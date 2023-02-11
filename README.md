@@ -1,5 +1,5 @@
 # Description
-This dynamic member sign-up/sign-in portal has been built on React at the frontend, with Google Firebase handling authentication at the backend. <br><br>
+This static member sign-up/sign-in portal has been built on React at the frontend, with Google Firebase handling authentication at the backend. <br><br>
 To build locally, navigate to the project's root directory and run `npm -i` to install dependencies. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
