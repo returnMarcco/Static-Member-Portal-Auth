@@ -1,5 +1,5 @@
 # Description
-This full-stack, serverless and dynamic user-registration and member sign in portal has been built on React at the frontend, with Firebase Firestore making up the backend. <br><br>
+This full-stack, serverless and dynamic user-registration and member sign in portal has been built on React at the frontend, with Firebase making up the backend. <br><br>
 To build locally, navigate to the project's root directory and run `npm -i` to install dependencies. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
