@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Description
+This full-stack, dynamic user registration and member sign in portal has been built with React at the frontend, and Node, Express & Firebase Firestore at the backend. It is serverless and dynamic.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
