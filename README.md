@@ -1,5 +1,5 @@
 # Description
-This full-stack, dynamic user registration and member sign in portal has been built with React at the frontend, and Node, Express & Firebase Firestore at the backend. It is serverless and dynamic.
+This full-stack and dynamic user-registration and member sign in portal has been built on React at the frontend, with Node, Express & Firebase Firestore making up the backend.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
